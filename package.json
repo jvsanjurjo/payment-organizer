@@ -4,6 +4,7 @@
   "description": "Manager of monthly expenses",
   "main": "index.js",
   "scripts": {
+    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jvsanjurjo/payment-organizer/issues"
   },
-  "homepage": "https://github.com/jvsanjurjo/payment-organizer#readme"
+  "homepage": "https://github.com/jvsanjurjo/payment-organizer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
