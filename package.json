@@ -1,0 +1,20 @@
+{
+  "name": "payment-organizer",
+  "version": "1.0.0",
+  "description": "Manager of monthly expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvsanjurjo/payment-organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvsanjurjo/payment-organizer/issues"
+  },
+  "homepage": "https://github.com/jvsanjurjo/payment-organizer#readme"
+}
